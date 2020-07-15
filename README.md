@@ -1,10 +1,6 @@
-MultiRogueLike
+HighSeasRogueLike
 ======
-Sketches for a multiplayer retro roguelike for the Commodore 64 and (someday) others
+A multiplayer retro roguelike with a focus on exploring the many islands in a huge sea.
 
-Screenshots
-------
+For the Commodore 64 and telnet.
 
-![VICE Testing 1](https://github.com/LeifBloomquist/MultiRogueLike/blob/master/Screenshots/VICE002a.png "VICE Testing 1")
-![VICE Testing 2](https://github.com/LeifBloomquist/MultiRogueLike/blob/master/Screenshots/VICE002b.png "VICE Testing 2")
-![VICE Testing 3](https://github.com/LeifBloomquist/MultiRogueLike/blob/master/Screenshots/VICE002c.png "VICE Testing 3")
