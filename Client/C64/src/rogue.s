@@ -9,7 +9,8 @@
   .include "ip65/inc/net.i"
   
   .include "macros.s"
-  
+  .include "sound.s"
+
 .ifndef KPR_API_VERSION_NUMBER
   .define EQU     =
   .include "ip65/inc/kipper_constants.i"
@@ -52,7 +53,7 @@ init:
     
   jsr irq_init   ; Needed for network, kills music
 
-  jsr sound_setup
+  jsr sound_init
  
   ; Wait for the first server packet
   kernal_print SERVERMESSAGE
@@ -82,13 +83,14 @@ loop:
   .include "actions.s"
   .include "joystick.s"
   .include "keyboard.s"
-  .include "screen.s"
   .include "defaultscreen.s"
+  .include "screen.s"
   .include "colorlookup.s"
-  .include "irq.s" 
+  .include "copyscreen.s"
+  .include "irq.s"
   .include "network.s" 
   .include "music.s"
-  .include "sound.s"
+  .include "input.s"
   .include "login.s"  
   .include "util.s"
   

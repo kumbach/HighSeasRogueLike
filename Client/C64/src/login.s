@@ -3,6 +3,7 @@
 ; -------------------------------------------------------------------------
 
   .import cfg_mac_default
+  .include "colors.s"
   .export _login
 
 STATIONLENGTH=1

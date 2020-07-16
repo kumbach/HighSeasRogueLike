@@ -1,7 +1,8 @@
 ; -------------------------------------------------------------------------
 ; Rogue Screen Routines
 
-.import default_screen
+
+;.import default_screen
 
 .export _screen_init
 
@@ -29,10 +30,10 @@ COMMS_COLOR = COLOR_BASE   + $03E7
 GAME_ROWS   = 17
 GAME_COLS   = 21
 
-COLOR_WHITE	= 1
-COLOR_GREY1	= 11
-COLOR_GREY2	= 12
-COLOR_GREY3 = 15
+;COLOR_WHITE	= 1
+;COLOR_GREY1	= 11
+;COLOR_GREY2	= 12
+;COLOR_GREY3 = 15
 
 ; -------------------------------------------------------------------------
 ; Screen Init
@@ -132,4 +133,5 @@ drawscreen:
   
   rts             
 
-; EOF 
+; EOF
+

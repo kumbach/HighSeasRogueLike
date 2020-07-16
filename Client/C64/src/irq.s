@@ -2,6 +2,7 @@
 ; Rogue IRQ Code
 
 .define IRQ_TOP    50
+;.import default_screen
 
 ; -------------------------------------------------------------------------
 ; IRQ Initialization

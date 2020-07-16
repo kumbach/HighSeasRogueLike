@@ -1,5 +1,6 @@
 ; -------------------------------------------------------------------------
 ; Copy screen data from UDP buffer to screen
+.export copyscreen
 
 copyscreen:
   ldx #$00
