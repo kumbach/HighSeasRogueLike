@@ -1,3 +1,3 @@
 @echo off
-
-del /Q target\*.*
+echo Cleaning target directory
+if exist "target" rmdir /q /s target
