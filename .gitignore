@@ -1,11 +1,8 @@
-# C64 files
-*.o
-
-.target/
+# Generated build files
+target/
 
 # IntelliJ files
+
 .idea/
 *.iml
 
-# Eclipse files
-# TODO

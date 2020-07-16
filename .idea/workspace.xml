@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79382ee3-3b0b-4b55-a7c5-71df7ffa824e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/HighSeasRogueLike.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_java_websocket_Java_WebSocket_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/high-seas-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ejLN5jvDuoyFXeRz3WNpKJAiSN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Client/C64" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin\workspace\HighSeasRogueLike\Client\C64" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin\workspace\HighSeasRogueLike\Client\tools" />
+      <recent name="C:\Users\Kevin\workspace\HighSeasRogueLike\Client\C64\bin" />
+      <recent name="C:\Users\Kevin\workspace\HighSeasRogueLike\Client\C64" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.schemafactor.rogueserver.Main" />
+      <module name="high-seas-server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cmd" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="262" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594860025010">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="520" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594846005663" />
+    <state x="569" y="262" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1594860025010" />
+    <state x="166" y="142" width="1350" height="638" key="DiffContextDialog" timestamp="1594841319206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="166" y="142" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1594841319206" />
+    <state width="1637" height="210" key="GridCell.Tab.0.bottom" timestamp="1594859362194">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="210" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1594859362194" />
+    <state width="1637" height="210" key="GridCell.Tab.0.center" timestamp="1594859362194">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="210" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1594859362194" />
+    <state width="1637" height="210" key="GridCell.Tab.0.left" timestamp="1594859362194">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="210" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1594859362194" />
+    <state width="1637" height="210" key="GridCell.Tab.0.right" timestamp="1594859362194">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="210" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1594859362194" />
+    <state x="341" y="149" key="SettingsEditor" timestamp="1594859358444">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="149" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1594859358444" />
+    <state x="409" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594860639366">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="374" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1594841393214" />
+    <state x="409" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1594860639366" />
+    <state x="817" y="140" width="636" height="655" key="find.popup" timestamp="1594861736461">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="318" y="128" width="555" height="534" key="find.popup/0.0.1024.728@0.0.1024.728" timestamp="1594842242792" />
+    <state x="747" y="114" width="581" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1594846499638" />
+    <state x="817" y="140" width="636" height="655" key="find.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1594861736461" />
+  </component>
+</project>
